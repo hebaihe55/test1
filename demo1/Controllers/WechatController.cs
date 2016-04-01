@@ -14,7 +14,9 @@ namespace demo1.Controllers
         // GET: Wechat
         public ActionResult Index()
         {
-            return View();       
+            return View();    
+            
+               
 
         }
 
